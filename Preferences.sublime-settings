@@ -1,0 +1,19 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/Material-Theme-Darker-OceanicNext.tmTheme",
+	"font_face": "Meslo LG M for Powerline",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"material_theme_accent_red": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
